@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shoponhossain32816@gmail.com**
 
-- 📄 Know about my experiences [https://shakawatportfolio.vercel.app/assets/personal-resume.pdf](https://shakawatportfolio.vercel.app/assets/personal-resume.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
