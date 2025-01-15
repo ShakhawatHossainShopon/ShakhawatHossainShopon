@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://shakawatportfolio.vercel.app/](https://shakawatportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://shakawatportfolio.vercel.app/](https://shakawatportsfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://shakawatportfolio.vercel.app/](https://shakawatportfolio.vercel.app/)
 
