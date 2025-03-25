@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Rentyard](https://rentyard.net/)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently Working **Javascript / TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://shakawatportfolio.vercel.app/](https://shakawatportfolio.vercel.app/)
 
