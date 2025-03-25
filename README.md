@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently Working **Javascript / TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://shakawatportfolio.vercel.app/](https://shakawatportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://shakawatportfolio.vercel.app/](https://shakhawatsportfolio.vercel.app/)
 
-- 📝 I regularly write articles on [https://shakawatportfolio.vercel.app/](https://shakawatportfolio.vercel.app/)
+- 📝 I regularly write articles on [https://shakawatportfolio.vercel.app/](https://shakhawatsportfolio.vercel.app/)
 
 - 💬 Ask me about **Web Development, Javascript, React, Redux, CSS Frameworks**
 
