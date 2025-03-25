@@ -1,9 +1,9 @@
 <h1 align="center">This is the GitHub Profile Of Shakhawat Shopon</h1>
 <h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 
-- 🔭 I’m currently working on [Rentyard](https://rentyard.net/)
+- 🔭 currently working on [Rentyard](https://rentyard.net/)
 
-- 🌱 I’m currently Working **Javascript / TypeScript**
+- 🌱 currently Working **Javascript / TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://shakawatportfolio.vercel.app/](https://shakhawatsportfolio.vercel.app/)
 
