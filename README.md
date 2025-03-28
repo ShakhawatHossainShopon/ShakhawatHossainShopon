@@ -1,4 +1,4 @@
-<h1 align="center">This is the GitHub Profile Of Shakhawat Shopon</h1>
+<h1 align="center">Shakhawat Shopon</h1>
 <h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 
 - 🔭 currently working on [Rentyard](https://rentyard.net/)
