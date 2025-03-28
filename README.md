@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://shakawatportfolio.vercel.app/](https://shakhawatsportfolio.vercel.app/)
 
-- 💬 Ask me about **Web Development, Javascript, React, Redux, CSS Frameworks**
+- 💬 Ask me about **Web Development, Javascript/Typescript, React, Redux, CSS Frameworks**
 
 - 📫 How to reach me **shoponhossain32816@gmail.com**
 
