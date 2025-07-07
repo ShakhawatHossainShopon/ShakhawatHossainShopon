@@ -1,5 +1,5 @@
 <h1 align="center">Shakhawat Shopon</h1>
-<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
+<h3 align="center">A Passionate Web Developer From Bangladesh</h3>
 
 - 🔭 currently working on [Rentyard](https://rentyard.net/)
 
